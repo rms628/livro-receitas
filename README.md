@@ -1,4 +1,4 @@
-#Livro de receitas:man cook:
+# Livro de receitas :man_cook:
 Olá!:wave:
  - Strogonoff de frango.
  - Pavê.

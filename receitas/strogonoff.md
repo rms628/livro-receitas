@@ -1,7 +1,7 @@
-#Strogonoff de Frango:chicken:
+# Strogonoff de Frango :chicken:
 **negrito** _itálico_
-###Ingredientes
+### Ingredientes
  -  1 quilo...
-###Modo de preparo
+### Modo de preparo
  - 1 ...
 
